@@ -1,3 +1,3 @@
 # Snake Game JavaScript
 
-###### YouTube kanalımda videosunu paylaştığım yılan oyunun kodları
+###### The codes of the snake game, the video of which I shared on my YouTube channel.
